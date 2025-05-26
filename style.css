@@ -1,0 +1,41 @@
+.divCadastro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: solid 1px rgb(241, 241, 241);
+    background-color: aqua;
+    height: 1000px;
+}
+
+label{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+h1{
+    font-family: cursive;
+}
+
+input{
+    height: 30px;
+    width: 200px;
+    border: none;
+}
+
+button{
+    height: 30px;
+    width: 200px;
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+button:hover{
+    background-color: white;
+    color: cornflowerblue ;
+
+}
